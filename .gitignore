@@ -16,6 +16,7 @@
 *.nar
 *.ear
 *.zip
+*.iml
 *.tar.gz
 *.rar
 
@@ -28,3 +29,4 @@ hs_err_pid*
 /HELP.md
 /spring-pet-clinic.iml
 /target/
+/pet-clinic-web/pet-clinic-web.iml
