@@ -30,3 +30,5 @@ hs_err_pid*
 /spring-pet-clinic.iml
 /target/
 /pet-clinic-web/pet-clinic-web.iml
+/pet-clinic-web/target/
+/pet-clinic-data/target/
